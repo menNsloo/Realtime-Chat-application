@@ -1,0 +1,11 @@
+npm init   (installs package.json)
+npm install express socket.io moment
+npm install -D nodemon
+
+to run the server:-
+	npm run dev
+
+create server.js
+ -run on port 3000
+ -join static "public" page  
+ -
